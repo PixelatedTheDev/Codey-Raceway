@@ -1,2 +1,1 @@
-Codey Raceway Is Cool Game
-           Press space for cool ability
+Codey Raceway is the best game. Press space to use an ability.
